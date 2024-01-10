@@ -1,0 +1,2 @@
+# scholarsys
+School management system
